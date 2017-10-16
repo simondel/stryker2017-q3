@@ -1,0 +1,3 @@
+### Impediments
+
+![](../img/harold.jpg)
